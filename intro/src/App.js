@@ -1,6 +1,5 @@
 import Portfolio from './components/Portfolio'
 import './App.css';
-import ItemModel from './models/ItemModel';
 
 function App() {
 
